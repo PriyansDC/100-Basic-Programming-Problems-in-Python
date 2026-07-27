@@ -6,4 +6,4 @@ result = 0
 for i in range(0, n+1):
     result += i
 
-print("Sum of all natural numbers from 1 to n: ", result)
+print(f"Sum of all natural numbers from 1 to {n}: {result}")
