@@ -7,4 +7,4 @@ result = 0
 for i in range(0, n+1, 2):
     result += i
 
-print("Sum of all even numbers from 1 to n: ", result)
+print(f"Sum of all even numbers from 1 to {n}: {result}")
