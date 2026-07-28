@@ -10,7 +10,7 @@
 
 # while rev > 0:
 #     print(rev % 10)
-#     rev //= 10456
+#     rev //= 10
 
 n = input("Enter a number: ")
 
