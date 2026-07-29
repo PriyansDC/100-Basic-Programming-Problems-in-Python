@@ -2,6 +2,8 @@
 
 n = int(input("Enter a number: "))
 
+original = n
+
 even_count = 0
 odd_count = 0
 
@@ -16,4 +18,4 @@ while n > 0:
 
     n //=10
 
-print(f"The total number of even number is: \nEven no: {even_count} \nOdd no: {odd_count}")
+print(f"The total count of even and odd number in {original} is: \nEven no: {even_count} \nOdd no: {odd_count}")
