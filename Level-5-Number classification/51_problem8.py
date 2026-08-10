@@ -1,13 +1,15 @@
 # Write a program to check whether a number is an automorphic number.
 
-n = int(input("Enter a number: ")) # 25
-
-sq = n ** 2 # 625
-
-while sq > 0: #
-    digit = sq % 10 #
-
-    sq //= 10 #
-
-if n == digit:
-    print("Yes, it's an automorphic number")
+# Take a number as input
+#         ↓
+# Store the original number
+#         ↓
+# Count the number of digits
+#         ↓
+# Calculate the square
+#         ↓
+# Extract the last "count" digits from the square
+#         ↓
+# Compare those digits with the original number
+#         ↓
+# If they match → Automorphic
