@@ -109,7 +109,7 @@ The problems progress from basic input/output to loops, number theory, strings, 
 - [12] Level 3 (12 Problems)
 - [11] Level 4 (11 Problems)
 - [13] Level 5 (13 Problems)
-- [10] Level 6 (11 Problems)
+- [11] Level 6 (11 Problems)
 - [ ] Level 7 (12 Problems)
 - [ ] Level 8 (12 Problems)
 - [ ] Level 9 (9 Problems)
