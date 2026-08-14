@@ -14,9 +14,8 @@ for i in n:
     word_checklist += i
 
     for j in n:
-
-        if i == j:    
-            if i == j:
-                count += 1
+                
+        if i == j:
+            count += 1
 
     print(f"The frequency of letter {i} in {n}: {count}")
