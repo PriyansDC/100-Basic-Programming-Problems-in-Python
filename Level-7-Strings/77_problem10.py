@@ -1,6 +1,8 @@
 # Write a program to find the first non-repeating character in a string.
 
-word = input("Enter a word: ")
+w = input("Enter a word: ")
+
+word = w.lower()
 
 word_checklist = {}
 print(type(word_checklist))
